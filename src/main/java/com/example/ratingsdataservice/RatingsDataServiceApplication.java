@@ -1,4 +1,4 @@
-package com.amit.ratingsdataservice;
+package com.example.ratingsdataservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
